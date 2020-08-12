@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/tazihad/instagram-to-google-drive/master/extra/insta_logo.jpg" align="right">
+<img src="https://raw.githubusercontent.com/tazihad/instagram-to-google-drive/master/extra/insta_logo.jpg" align="right" | width=50>
 
 Instagram To Google Drive Scraper
 =================================
