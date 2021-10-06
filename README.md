@@ -1,4 +1,4 @@
-## [Instagram To Google Drive Scraper](instagram-to-google-drive/instagram_to_google_drive.ipynb) &nbsp;&nbsp; [![Open in Colab][Colab Badge]][RDP Notebook]
+## [Instagram To Google Drive Scraper](instagram-to-google-drive/instagram_to_google_drive.ipynb) &nbsp;&nbsp; [![Open in Colab][Colab Badge]][RDP Notebook] (https://github.com/tazihad/instagram-to-google-drive/blob/master/instagram_to_google_drive.ipynb)
 
 =================================
 
