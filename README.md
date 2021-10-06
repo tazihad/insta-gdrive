@@ -1,5 +1,7 @@
 ## [Instagram To Google Drive Scraper]
 
+## [Colab RDP](Colab%20RDP/Colab%20RDP.ipynb) &nbsp;&nbsp; [![Open in Colab][Colab Badge]][RDP Notebook](instagram_to_google_drive.ipynb)
+
 =================================
 
 A simple utility tool which scraps and downloads instagram images directly to google drive. 
