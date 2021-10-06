@@ -1,5 +1,5 @@
 Instagram To Google Drive Scraper 
-[![Open in Colab][Colab Badge]][Torrent Notebook] [![Torrent Issues][Torrent Issues]](https://github.com/tazihad/instagram-to-google-drive/blob/master/instagram_to_google_drive.ipynb)
+[![Open in Colab][Colab Badge]][RDP Notebook]
 
 =================================
 
